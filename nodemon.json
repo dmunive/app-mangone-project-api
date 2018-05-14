@@ -1,0 +1,11 @@
+{
+	"watch": [
+		"src",
+		"api",
+		"routes",
+		"errors",
+		"utils"
+	],
+	"ext": "ts",
+	"exec": "ts-node src/server"
+}
